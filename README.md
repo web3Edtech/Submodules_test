@@ -1,2 +1,2 @@
-# Frontend_React_Task2
-Advanced React Rendering Techniques for a Profile Website
+# Frontend_React_Task3
+Mastering React Hooks for a Profile Website
